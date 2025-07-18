@@ -1,0 +1,5 @@
+pandas
+python-dotenv
+sqlite3
+streamlit
+streamlit-aggrid
